@@ -12,7 +12,7 @@
     "test-once": "tsc && karma start karma.conf.js --single-run",
     "tsc": "tsc",
     "tsc:w": "tsc -w"
-  },
+  }, 
   "keywords": [],
   "author": "",
   "license": "MIT",
